@@ -9,7 +9,3 @@ O objetivo é validar se um CPF informado é válido ou não, aplicando os cálc
 - Laços de repetição
 - Funções
 - Boas práticas com Git
-
-🎯 Próximo passo: Validar CNPJ e criar mais mini-projetos de lógica.
-
----
