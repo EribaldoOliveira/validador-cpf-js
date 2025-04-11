@@ -1,5 +1,6 @@
 
 # ✅ Validador de CPF (Brasil)
+![image](https://github.com/user-attachments/assets/3746c329-caac-4102-a2b4-dd39bdeef254)
 
 Este projeto verifica se um número de CPF é **válido ou inválido**, de acordo com as regras da Receita Federal do Brasil.
 
